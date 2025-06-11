@@ -76,6 +76,7 @@ Funding = "https://github.com/sponsors/squidfunk"
 
 [project.entry-points."mkdocs.plugins"]
 "material/blog" = "material.plugins.blog.plugin:BlogPlugin"
+"material/footnotes" = "material.plugins.footnotes.plugin:FootnotesPlugin"
 "material/group" = "material.plugins.group.plugin:GroupPlugin"
 "material/info" = "material.plugins.info.plugin:InfoPlugin"
 "material/meta" = "material.plugins.meta.plugin:MetaPlugin"
